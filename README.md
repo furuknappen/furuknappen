@@ -4,10 +4,9 @@ const name = "Camilla Furuknappen Larsen"; <br>
 const study = "front-end"; <br>
 const school = "Noroff Fagskole";
 
+My name is `{name}` and im a `{study}` student.
 
-My name is {name} and im a {study} student.
-
-Im currently studying at {school}, so a lot of my projects are assignments. 
+Im currently studying at `{school}`, so a lot of my projects are assignments. 
 I also have a few personal projects on the side, which I hope to use more time on in the future.
 
 
